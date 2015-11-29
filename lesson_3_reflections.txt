@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 When one is working from different system at different locations or multiple people working on the same repository.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If the repository is shared by multiple people automatic update will lead to confusion ans mis-representation. So manual pull id preferred.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+When a repository is forked the original will not be effected by our changes even after push. In cloning the original also changes when we push the local repository on to the remote.
+A branch is created on a repository to not to distrub the part of the working code and to continue working on multiple feutures simultaneously.
