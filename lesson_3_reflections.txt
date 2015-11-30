@@ -7,3 +7,6 @@ If the repository is shared by multiple people automatic update will lead to con
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 When a repository is forked the original will not be effected by our changes even after push. In cloning the original also changes when we push the local repository on to the remote.
 A branch is created on a repository to not to distrub the part of the working code and to continue working on multiple feutures simultaneously.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can do a fast-forward merge.
