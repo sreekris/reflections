@@ -10,3 +10,8 @@ A branch is created on a repository to not to distrub the part of the working co
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can do a fast-forward merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Manual collaboration would be possible but very cumbersome as the project size increases and prone to lot of errors. Using 
+Git or GitHub would be easier.
+
